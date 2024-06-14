@@ -4,7 +4,7 @@ const Hero = (()=> {
         <section className="pt-12">
             <div className="px-[8.7rem] grid grid-cols-2 gap-28 items-center py-[4.2rem]">
                 <div>
-                    <h1 className="text-6xl font-extrabold max-w-2xl mb-4 justify-right">Building digital products & brands.</h1>
+                    <h1 className="text-6xl font-extrabold max-w-2xl mb-4 justify-right">Building digital products & brands updated.</h1>
                     <p className="max-w-2xl text-xl mb-6 font-light text-gray-500">This free and open-source landing page template was built using the utility classNamees from Tailwind CSS and based on the components from the Flowbite Library and the Blocks System.
                     </p>
                     <div className="flex gap-6">
